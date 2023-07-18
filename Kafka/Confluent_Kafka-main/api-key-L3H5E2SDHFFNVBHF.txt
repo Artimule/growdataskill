@@ -1,0 +1,7 @@
+=== Confluent Cloud API key: lsrc-6o8r86 ===
+
+API key:
+L3H5E2SDHFFNVBHF
+
+API secret:
+eAhyT0U/XT2cXZ+RAwbM/QkGwZJwCiONFfAX9DZ7xYBnXkEeA9gAy6eUeIV8s6N9
